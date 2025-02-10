@@ -14,7 +14,7 @@ Another use case for DirStructureCopy is having a directory with many files and 
 Download
 --------
 
-You can **[download the latest release](https://github.com/mifeet/DirStructureCopy/releases/latest) here on GitHub.** You can choose between portable binaries for .NET 3.5 and a Windows installer.
+You can **[download the latest release](https://github.com/feynmanix/DirStructureCopy/releases/latest) here on GitHub.** You can choose between portable binaries for .NET 3.5 and a Windows installer.
 
 
 How it works
